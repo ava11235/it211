@@ -20,7 +20,11 @@ Upon successful completion of the work, students will be familiar with and able 
 
 * Scientific notation for floating point literals
 
-* ConstantsWorking with the math library methods
+* Constants
+
+* Working with the math library methods
+
+* Setup your development environment with Eclipse 
 
 ## Example
-Example code [here](https://github.com/ava11235/it211/blob/master/Example1.java)
+Example:  code [here](https://github.com/ava11235/it211/blob/master/Receipt.java)
