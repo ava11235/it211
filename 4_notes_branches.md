@@ -17,5 +17,29 @@ Upon successful completion of the work, students will be familiar with and able 
 * Detecting ranges 
 * Logical operators
 
+## Notes
+
+The *if* statement executes a block of statements only if a test is true. 
+
+The *if - else* statement executes one black if test is true, another if test is false.
+
+The *if - else if...else if - else* statment executes one of multiple outcomes, the one for which the test is true.
+
+Some examples of when to use which statement:
+* Student has an Associate, Bachelor or Master's degree. Use *if - else if - else* statement.
+* Student made the deans list or the honor roll. Use *if - else if* statement
+* Is a number divisible by 5, 7, and 12. Use multiple *if* statements. *if - if - if*
+* Calculate a letter GPA based on a numeric GPA. Use *if - else if...else if...else if...-else*
+
+
+
+
+
+
+![Truth Table](truth-table.JPG)
+![](not.JPG)
+![Logical Operators](logical-operators.JPG)
+
 ## Example
-Example:  code [here](https://github.com/ava11235/it211/blob/master/GuessingGame.java)
+Guessing game with Random class random number generator and use of conditional statements.
+code [here](https://github.com/ava11235/it211/blob/master/GuessingGame.java)
