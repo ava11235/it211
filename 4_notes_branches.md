@@ -25,6 +25,7 @@ The *if - else* statement executes one black if test is true, another if test is
 
 The *if - else if...else if - else* statment executes one of multiple outcomes, the one for which the test is true.
 
+
 Some examples of when to use which statement:
 * Student has an Associate, Bachelor or Master's degree. Use *if - else if - else* statement.
 * Student made the deans list or the honor roll. Use *if - else if* statement
@@ -32,8 +33,7 @@ Some examples of when to use which statement:
 * Calculate a letter GPA based on a numeric GPA. Use *if - else if...else if...else if...-else*
 
 
-
-
+## Truth tables and Logical Operators 
 
 
 ![Truth Table](truth-table.JPG)
