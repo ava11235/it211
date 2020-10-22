@@ -7,7 +7,7 @@ public class GuessingGame {
 		
 		
 		Random random = new Random();
-		int number = random.nextInt(24) + 1;
+		int number = random.nextInt(25) + 1;
 		int attempts = 0;
 		int guess;
 		boolean correctGuess = false;
@@ -30,10 +30,11 @@ public class GuessingGame {
 				System.out.println("Your guess is too high");
 			}
 			
-			System.out.println("You guessed correctly! The number was " + number);
-			System.out.println("You guessed after " + attempts + "attempts");
+			
 		}
 		
+		System.out.println("You guessed correctly! The number was " + number);
+		System.out.println("You guessed after " + attempts + "attempts");
 		
 	}
 
