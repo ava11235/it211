@@ -26,5 +26,37 @@ Upon successful completion of the work, students will be familiar with and able 
 
 
 ## Example
-Guessing game with Random class random number generator and use of conditional statements.
-code [here](https://github.com/ava11235/it211/blob/master/GuessingGame.java)
+Switch statement 
+```
+    int num = 6;
+		String day;
+
+		switch (num) {
+		case 1:
+			day = "Sunday";
+			break;
+		case 2:
+			day = "Monday";
+			break;
+		case 3:
+			day = "Tuesday";
+			break;
+		case 4:
+			day = "Wednesday";
+			break;
+		case 5:
+			day = "Thursday";
+			break;
+		case 6:
+			day = "Friday";
+			break;
+		case 7:
+			day = "Saturday";
+			break;
+		default:
+			day = "Don't know this day";
+		}
+
+		System.out.println(day);
+    ```
+
