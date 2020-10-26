@@ -58,5 +58,5 @@ Switch statement
 		}
 
 		System.out.println(day);
-    ```
+```
 
