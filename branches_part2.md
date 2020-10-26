@@ -28,7 +28,7 @@ Upon successful completion of the work, students will be familiar with and able 
 ## Example
 Switch statement 
 ```
-    int num = 6;
+  	       int num = 6;
 		String day;
 
 		switch (num) {
