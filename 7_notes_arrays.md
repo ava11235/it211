@@ -42,3 +42,6 @@ Upon successful completion of the work, students will be familiar with and able 
 * Loops and arrays
 * Iterating through arrays
 
+## Example
+Average Temp program(https://github.com/ava11235/it211/blob/master/Temperatures.java)
+
