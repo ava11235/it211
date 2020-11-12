@@ -28,7 +28,7 @@ The length of an array can be determined with the use of the ```length``` proper
 
 
 ## Reference
-[The Java Arrays class in the java.util package](https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.htmll)
+[The Java Arrays class in the java.util package](https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html)
 
 ## Practice
 
