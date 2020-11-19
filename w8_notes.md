@@ -14,9 +14,11 @@ public class TempArray2D {
 		// Declare two dimensional rectangular array
 		// to represent 3 days worth of temperature readings
 		
-		double[][] temp = { { 66.8, 70.3, 69.4 }, // Row 0 Day 1
+		double[][] temp = {
+				{ 66.8, 70.3, 69.4 }, // Row 0 Day 1
 				{ 71.5, 80.4, 75.8 }, // Row 1 Day 2
-				{ 88.4, 70.3, 77.0 } };
+				{ 88.4, 70.3, 77.0 } // Row 2 Day 3
+			};
 
 		printTemps(temp);
 
@@ -76,3 +78,4 @@ Enhanced for each loop
 
 ## Example ##
 Read scores from a file and display a histogram of the scores 
+[here](https://github.com/ava11235/it211/blob/master/ScoreCounts.java)
