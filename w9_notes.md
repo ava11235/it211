@@ -84,3 +84,25 @@ Upon successful completion of the work, students will be familiar with and able 
 
 
 ## Example ##
+
+Passing parameters
+```
+public static void main(String[] args) {
+    printNumber(4, 5);
+    printNumber(17, 4);
+    printNumber(0, 8);
+ 
+}
+
+public static void printNumber(int number, int count) {
+    for (int i = 0; i < count; i++) {
+        System.out.print(number);
+    }
+    System.out.println();
+}
+```
+
+
+
+
+
