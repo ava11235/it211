@@ -75,5 +75,55 @@ You will receive no credit and may be subject to disciplinary action if your gra
 ## SCC Syllabus Supplemental 
 Link can be found [here](https://docs.google.com/document/d/1yudWf-jUKFL10B16m9VKeFS6isA0B2uPjfYnrT5FjOU/edit)
 
+## Tentative Schedule 
+
+### Week 1
+
+Introduction to Java
+
+Basic syntax
+
+### Week 2
+
+Variables and assignments
+
+### Week 3
+
+Branches
+
+### Week 4
+
+Loops
+
+### Week 5
+
+Arrays
+
+### Week 6
+
+User defined methods
+
+
+### Week 7
+
+Objects and Classes
+
+### Week 8
+
+Objects and Classes continued
+
+### Week 9
+
+Memory Management
+
+### Week 10
+
+Inheritance
+
+
+### Week 11
+TBD
+
+
  
 
