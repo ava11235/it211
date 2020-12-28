@@ -5,7 +5,7 @@
 
 ## Course Information: 
 * Location: Online
-* Time: Virtual meetings on Tuesdays 5:00 pm - 6:30 pm. 
+* Time: Virtual meetings on Mondays 1pm - 3:30pm
 * Dates: 1/4/2021 - 3/24/2021
 * Instructor: Ava Meredith 
 * Website: https://www.avameredith.com/
