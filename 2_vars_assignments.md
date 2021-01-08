@@ -5,6 +5,8 @@ zyBooks Ch 2 Variables and Assignments 2.1 - 2.10
 ## Reference
 [Oracle's Java Reference](https://docs.oracle.com/javase/tutorial/index.html)
 
+[Eclipse Tutorial](http://eclipsetutorial.sourceforge.net/totalbeginnerlessons.html)
+
 ## Practice
 
 zyBooks Ch 2 Practice 2.1 - 2.10 (graded participation activity)
