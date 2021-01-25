@@ -1,13 +1,13 @@
 ## Reading
 
-zyBooks Ch 3 Branches 3.1 - 3.8
+zyBooks Ch 3 Branches 3.1 - 3.10
 
 ## Reference
 [Oracle's Java Reference](https://docs.oracle.com/javase/tutorial/index.html)
 
 ## Practice
 
-zyBooks Ch 3 Practice 3.1 - 3.8 (graded participation activity)
+zyBooks Ch 3 Practice 3.1 - 3.10 (graded participation activity)
 
 ## Learning Outcomes
 Upon successful completion of the work, students will be familiar with and able to apply the below concepts and techniques in their programs
