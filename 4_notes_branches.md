@@ -7,6 +7,8 @@ zyBooks Ch 3 Branches 3.1 - 3.10
 
 ## Practice
 
+Review/warm up: Code Lab 2.37 Convert to dollars
+
 zyBooks Ch 3 Practice 3.1 - 3.10 (graded participation activity)
 
 ## Learning Outcomes
