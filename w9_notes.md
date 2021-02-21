@@ -78,9 +78,10 @@ Upon successful completion of the work, students will be familiar with and able 
 * User defined method basics
 * Parameters and arguments
 * Return statements
-* Unit testing
+* Unit testing with JUnit
 * Scope of variable and method definitions
 *  Method overloading
+* 
 
 
 ## Example ##
