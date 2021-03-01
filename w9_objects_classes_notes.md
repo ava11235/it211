@@ -18,16 +18,15 @@ https://docs.oracle.com/javase/tutorial/java/javaOO/index.html
 
 ## Practice ##
 
-zyBooks Ch 7.1 - 7.8  Practice (graded participation activity)
+zyBooks Ch 7.1 - 7.9  Practice (graded participation activity)
 
 ## Learning Outcomes ##
 
-Upon successful completion of the work, students will be familiar with and able to apply the below concepts and techniques in their programs:
-* Objects and Classes basics
-* Using and defining classes
-* Mutators, accessors and private helper methods
-* Constructors
-* Defining the main() in custom defined classes
+Upon successful completion of the work, students will be able to
+* Construct and call Objects and Classes
+* Define mutators, accessors and private helper methods
+* Define and or multiple (overload) constructors
+* Define the main() in custom defined classes
 * Class unit testing
 
 
