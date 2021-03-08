@@ -1,5 +1,5 @@
 ## Reading ##
-zyBooks Ch 7 Objects and Classes 7.9 - 7.13
+zyBooks Ch 7 Objects and Classes 7.10 - 7.13
 zyBooks Ch 10 Inheritance 10.1, 10.2
 
 **Constructor overloading** refers to creating multiple constructors. These constructors have the same name but differ by the number of arguments. 
